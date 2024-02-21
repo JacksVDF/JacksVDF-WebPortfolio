@@ -38,7 +38,7 @@
       <p class="text-base sm:text-lg md:text-xl">
         My <span class="text-violet-400"> expertise</span> includes Cloud (OpenShift, IBM Cloud) and DevSecOps
       </p>
-      <a href="https://www.linkedin.com/in/jacksvdf/" target="_blank" class="blueShadow mx-auto lg:mr-auto text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-violet-800 text-salte-950 cursor-pointer">
+      <a href="https://www.linkedin.com/in/jacksvdf/" target="_blank" class="blueShadow mx-auto lg:mr-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-violet-800 text-salte-950 cursor-pointer">
         <div class="absolute top-0 right-full w-full h-full bg-violet-400 opacity-20 group-hover:translate-x-full z-0 duration-200"/>
         <h4 class="relative z-9">Get in Touch &rarr;</h4>
       </a>
