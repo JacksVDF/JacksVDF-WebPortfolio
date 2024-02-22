@@ -33,10 +33,10 @@
   <section id="introPage" class="grid grid-cols-1 lg:grid-cols-2 gap-10 py-8 sm:py-14">
     <div class="flex flex-col lg:justify-center text-center lg:text-left gap-6 md:gap-8 lg:gap-10">
       <h2 class="font-semibold text-4xl sm:text5xl md:text-6xl">
-        Hi! I'm <span class="poppins text-purple-700">Julian</span> Cardona <br/> Software <span class="poppins text-purple-700">Craftsman</span>
+        Hi! My name is <span class="poppins text-purple-700">Julian</span> Cardona <br/> and I'm a Software <span class="poppins text-purple-700">Craftsman</span>
       </h2>
       <p class="text-base sm:text-lg md:text-xl">
-        My <span class="text-purple-500"> expertise</span> includes Cloud (OpenShift, IBM Cloud) and DevSecOps
+        Dedicated and <span class="text-purple-500"> results-driven</span> professional with a fascination in the dynamic fields of Cloud Computing and DevSecOps. My <span class="text-purple-500"> expertise</span> lies in harnessing the power of cutting-edge technologies to drive innovation, efficiency, and security in software development and deployment.
       </p>
       <a href="https://www.linkedin.com/in/jacksvdf/" target="_blank" class="blueShadow mx-auto lg:mr-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins relative overflow-hidden px-6 py-3 group rounded-full bg-purple-800 text-salte-950 cursor-pointer">
         <div class="absolute top-0 right-full w-full h-full bg-purple-400 opacity-20 group-hover:translate-x-full z-0 duration-200"/>
@@ -44,7 +44,7 @@
       </a>
     </div>
     <div class="relative shadow-2xl grid place-items-center">
-        <div bind:this={animationContainer} style="width: 85%; height: 85%">
+        <div bind:this={animationContainer} style="width: 95%; height: 95%">
     </div>
   </section>
 
